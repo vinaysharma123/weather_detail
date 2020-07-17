@@ -1,0 +1,25 @@
+.season-display{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 30em;
+}
+ .winter{
+ 	background-color: #5c85d6;
+ 	
+ }
+ .summer{
+    
+ 	background-color: #ff6600;
+ }
+
+ .iconimg1{
+ 	position: absolute;
+ 	 top:1em;
+ 	 left:2em;
+ }
+ .iconimg2{
+ 	position: absolute;
+ 	bottom: 2em;
+ 	right:2em;
+ }
